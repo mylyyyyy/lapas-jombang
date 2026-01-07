@@ -3,7 +3,7 @@
   <h1>🏛️ Sistem Informasi Lapas Kelas IIB Jombang</h1>
   <p>Aplikasi web modern untuk layanan publik dan manajemen internal di <strong>Lapas Kelas IIB Jombang</strong>, dibangun dengan Laravel 12.</p>
 
-  <!-- Badges -->
+  
   <p>
     <img src="https://img.shields.io/badge/PHP-8.2%2B-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP 8.2+">
     <img src="https://img.shields.io/badge/Laravel-12-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel 12">
